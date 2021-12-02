@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "esbuild": "^0.13.12"
+  },
+  "scripts": {
+    "build": "esbuild index.js --bundle --outfile=bundle.js --watch"
+  },
+  "name": "js-dom-exercise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
